@@ -7,4 +7,5 @@ data class EmailData(
     val subject: String,
     val message: String,
     val dateTime: LocalDateTime,
-    val isFavor: Boolean)
+    val isFavor: Boolean,
+    val read: Boolean)

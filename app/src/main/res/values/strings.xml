@@ -5,10 +5,12 @@
     <string name="create_mail">Create mail</string>
     <string name="sender">Sender</string>
     <string name="title">Title</string>
-    <string name="content">Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
-    </string>
+    <string name="content">Content</string>
     <string name="favor">Add to favorite</string>
     <string name="datetime">Datetime</string>
     <string name="section">Mailbox</string>
     <string name="user">User</string>
+    <string name="email">Email</string>
+    <string name="video_meeting">Video Meeting</string>
+    <string name="empty"/>
 </resources>

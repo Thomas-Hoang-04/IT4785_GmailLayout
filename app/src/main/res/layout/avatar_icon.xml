@@ -12,8 +12,8 @@
         android:id="@+id/avatar_icon"
         android:src="@drawable/bien"
         android:contentDescription="@string/user"
-        android:layout_width="36dp"
-        android:layout_height="36dp"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
         android:layout_marginEnd="15dp"
         app:shapeAppearance="@style/ShapeAppearance.Material3.Corner.Full">
 </com.google.android.material.imageview.ShapeableImageView>
