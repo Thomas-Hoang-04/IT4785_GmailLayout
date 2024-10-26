@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GmailLayout</string>
+    <string name="search_mail">Search mail</string>
+    <string name="search_by_voice">Search by voice</string>
+    <string name="create_mail">Create mail</string>
+    <string name="sender">Sender</string>
+    <string name="title">Title</string>
+    <string name="content">Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+    </string>
+    <string name="favor">Add to favorite</string>
+    <string name="datetime">Datetime</string>
+    <string name="section">Mailbox</string>
+    <string name="user">User</string>
+</resources>
